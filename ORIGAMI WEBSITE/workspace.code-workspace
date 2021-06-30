@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../portfolio-master"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ORIGAMI WEBSITE"
+	}
+}
